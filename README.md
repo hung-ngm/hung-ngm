@@ -4,12 +4,12 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack and Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I’m a Full Stack Software Engineer who can build frontend/backend web applications. I also have great passion in Blockchain/AI. Currently, I am exploring Ethereum and Cosmos ecosystem by builing full stack Solidity/CosmWasm smart contracts.
-- 🌱 Exploring ZK Knowledge Proof Technology.
+- 🔭 I’m a Full Stack Software Engineer who can build frontend/backend web applications. I also have great passion in Blockchain/AI. 
+- 🌱 Exploring LLMs.
 - ⚡ In my free time I love building side projects and reading books.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-hungnguyen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hung-nguyen-a4ba0b1a9/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-hungnguyen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hungng157/)
 
 ---
 
