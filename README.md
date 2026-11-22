@@ -1,50 +1,75 @@
-### Hi there, I'm Hung Nguyen 👋
+# Hi, I'm Hung 👋
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+📍 **Sydney** | 🤖 **AI, Agents, harnesses**
 
-### :woman_technologist: &nbsp;About Me :
+Obsessed with agents.
 
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-121212?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
-- 🔭 I’m a Full Stack Software Engineer who can build frontend/backend web applications. I also have great passion in Blockchain/AI. 
-- 🌱 Exploring LLMs.
-- ⚡ In my free time I love building side projects and reading books.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-hungnguyen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hungng157/)
+## Start Here
+
+- 🛒 **[coles-woolworths-mcp-server](https://github.com/hung-ngm/coles-woolworths-mcp-server)** (39★) - let AI assistants search Coles & Woolworths prices
+- 📚 **[book-to-knowledge-base](https://github.com/hung-ngm/book-to-knowledge-base)** - turn any book into one linked markdown knowledge base
+- 🧩 **[pydantic-ai-scriptmode](https://github.com/hung-ngm/pydantic-ai-scriptmode)** - one `run_script` call, compiled to a plan, no sandbox needed
+- ☯️ **[kinh-dich](https://github.com/hung-ngm/kinh-dich)** - I Ching readings as a Claude Code skill
+
+## Current Projects
+
+### Agent Skills (Claude Code)
+
+- 📚 **[book-to-knowledge-base](https://github.com/hung-ngm/book-to-knowledge-base)** - PDF, EPUB, DOCX → one linked markdown knowledge base for humans and agents
+- 🎓 **[codebase-learning-skillset](https://github.com/hung-ngm/codebase-learning-skillset)** - a Distinguished Engineer mentor for learning any GitHub codebase
+- ☯️ **[kinh-dich](https://github.com/hung-ngm/kinh-dich)** - I Ching (Kinh Dịch), based on Ngô Tất Tố's translation of Chu Dịch Đại Toàn
+- 🌌 **[tu-vi-dau-so](https://github.com/hung-ngm/tu-vi-dau-so)** - Tử Vi Đẩu Số (Purple Star Astrology) readings
+
+### Agent Runtime & MCP
+
+- 🧩 **[pydantic-ai-scriptmode](https://github.com/hung-ngm/pydantic-ai-scriptmode)** - inert-plan script mode for Pydantic AI, executed against folded tools
+- 🛒 **[coles-woolworths-mcp-server](https://github.com/hung-ngm/coles-woolworths-mcp-server)** - MCP server for Australian supermarket product search
+- 🔍 **[muse-cli-docs](https://github.com/hung-ngm/muse-cli-docs)** - unofficial references for Muse's connector CLIs, reverse-engineered from the binaries
+
+### AI Apps & Automations
+
+- 🗞️ **[hung-hacker-x-posts](https://github.com/hung-ngm/hung-hacker-x-posts)** - Hacker News, but for my saved X posts
+- 📊 **[browse-dashboard](https://github.com/hung-ngm/browse-dashboard)** - your Chrome history as a dashboard, parsed locally in the browser
+- 🎙️ **[Youtube-Podcast-Summarizer-Slack-AI-Agent](https://github.com/hung-ngm/Youtube-Podcast-Summarizer-Slack-AI-Agent)** - podcast episode in, Slack summary out
+- 🎨 **[ispy-api](https://github.com/hung-ngm/ispy-api)** - describes the main object's colour in an image, as audio
+- 🪞 **[mirror](https://github.com/hung-ngm/mirror)** - AI assistants and productivity tools ([backend](https://github.com/hung-ngm/mirror-scripts-backend): research reports with references)
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=hung-ngm&hide_border=true)
+
+## What I'm Doing
+
+- **Building agent skills** - packaging real know-how so agents can use it
+- **Learning harness engineering** - digging into how agent harnesses work under the hood
+- **Reading, then compiling** - turning books into knowledge bases my agents can search
+- **Shipping side projects** - small tools that solve my own problems
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-Hung_Nguyen-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hungng157/)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hung-ngm)
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### Philosophy
 
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-</p>
+> "Build it to learn it." - I learn a topic by building it, then share what I made.
 
----
+<details>
+<summary>Random Facts</summary>
 
-<!--
-**minhhung123/minhhung123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Turns every book I read into a knowledge base
+- Wrote Claude Code skills for Vietnamese I Ching and Tử Vi astrology
+- Started out in blockchain, now all-in on AI agents
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
