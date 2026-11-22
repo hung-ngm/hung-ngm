@@ -22,6 +22,12 @@ Obsessed with agents.
 
 ## Current Projects
 
+### Agent Runtime & MCP
+
+- 🧩 **[pydantic-ai-scriptmode](https://github.com/hung-ngm/pydantic-ai-scriptmode)** - inert-plan script mode for Pydantic AI, executed against folded tools
+- 🛒 **[coles-woolworths-mcp-server](https://github.com/hung-ngm/coles-woolworths-mcp-server)** - MCP server for Australian supermarket product search
+- 🔍 **[muse-cli-docs](https://github.com/hung-ngm/muse-cli-docs)** - unofficial references for Muse's connector CLIs, reverse-engineered from the binaries
+
 ### Agent Skills (Claude Code)
 
 - 📚 **[book-to-knowledge-base](https://github.com/hung-ngm/book-to-knowledge-base)** - PDF, EPUB, DOCX → one linked markdown knowledge base for humans and agents
@@ -29,30 +35,16 @@ Obsessed with agents.
 - ☯️ **[kinh-dich](https://github.com/hung-ngm/kinh-dich)** - I Ching (Kinh Dịch), based on Ngô Tất Tố's translation of Chu Dịch Đại Toàn
 - 🌌 **[tu-vi-dau-so](https://github.com/hung-ngm/tu-vi-dau-so)** - Tử Vi Đẩu Số (Purple Star Astrology) readings
 
-### Agent Runtime & MCP
-
-- 🧩 **[pydantic-ai-scriptmode](https://github.com/hung-ngm/pydantic-ai-scriptmode)** - inert-plan script mode for Pydantic AI, executed against folded tools
-- 🛒 **[coles-woolworths-mcp-server](https://github.com/hung-ngm/coles-woolworths-mcp-server)** - MCP server for Australian supermarket product search
-- 🔍 **[muse-cli-docs](https://github.com/hung-ngm/muse-cli-docs)** - unofficial references for Muse's connector CLIs, reverse-engineered from the binaries
-
-### AI Apps & Automations
-
-- 🗞️ **[hung-hacker-x-posts](https://github.com/hung-ngm/hung-hacker-x-posts)** - Hacker News, but for my saved X posts
-- 📊 **[browse-dashboard](https://github.com/hung-ngm/browse-dashboard)** - your Chrome history as a dashboard, parsed locally in the browser
-- 🎙️ **[Youtube-Podcast-Summarizer-Slack-AI-Agent](https://github.com/hung-ngm/Youtube-Podcast-Summarizer-Slack-AI-Agent)** - podcast episode in, Slack summary out
-- 🎨 **[ispy-api](https://github.com/hung-ngm/ispy-api)** - describes the main object's colour in an image, as audio
-- 🪞 **[mirror](https://github.com/hung-ngm/mirror)** - AI assistants and productivity tools ([backend](https://github.com/hung-ngm/mirror-scripts-backend): research reports with references)
-
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=hung-ngm&hide_border=true)
 
 ## What I'm Doing
 
-- **Building agent skills** - packaging real know-how so agents can use it
-- **Learning harness engineering** - digging into how agent harnesses work under the hood
-- **Reading, then compiling** - turning books into knowledge bases my agents can search
-- **Shipping side projects** - small tools that solve my own problems
+- **Building agent systems**
+- **Learning inference engineering**
+- **Shipping side projects**
+- **Reading and maintaining knowledge bases**
 
 ## Connect
 
