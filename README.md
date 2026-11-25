@@ -38,7 +38,7 @@ Obsessed with agents.
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=hung-ngm&hide_border=true)
+![GitHub Contribution Graph](./assets/contributions.svg)
 
 ## What I'm Doing
 
