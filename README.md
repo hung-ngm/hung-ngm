@@ -28,6 +28,7 @@ Obsessed with agents.
 - 🛒 **[coles-woolworths-mcp-server](https://github.com/hung-ngm/coles-woolworths-mcp-server)** - MCP server for Australian supermarket product search
 - 🔍 **[muse-cli-docs](https://github.com/hung-ngm/muse-cli-docs)** - unofficial references for Muse's connector CLIs, reverse-engineered from the binaries
 
+
 ### Agent Skills (Claude Code)
 
 - 📚 **[book-to-knowledge-base](https://github.com/hung-ngm/book-to-knowledge-base)** - PDF, EPUB, DOCX → one linked markdown knowledge base for humans and agents
