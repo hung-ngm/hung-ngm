@@ -5,7 +5,7 @@
 <circle cx="32" cy="28" r="5" fill="#39d353" opacity=".2"/><circle cx="32" cy="28" r="2.5" fill="#39d353"/>
 <text x="42" y="32" class="t" fill="#58a6ff">Contributions</text>
 <rect x="1694" y="14" width="160" height="22" rx="11" fill="#39d353" opacity=".12"/>
-<text x="1774" y="29" text-anchor="middle" class="b" fill="#39d353">2,072 contributions</text>
+<text x="1774" y="29" text-anchor="middle" class="b" fill="#39d353">2,155 contributions</text>
 <line x1="24" y1="60" x2="1854" y2="60" stroke="#30363d" stroke-width=".5"/>
 <text x="52" y="74" class="l">Nov</text>
 <text x="120" y="74" class="l">Dec</text>
@@ -759,8 +759,10 @@
 <text x="1834.0" y="172.1" text-anchor="middle" font-family="monospace" font-size="17.36" font-weight="700" fill="#e6edf3" opacity="1" pointer-events="none">6</text>
 <rect x="1820" y="186" width="28" height="28" rx="3" fill="#39d353"><title>2026-11-25: 138</title></rect>
 <text x="1834.0" y="203.5" text-anchor="middle" font-family="monospace" font-size="10" font-weight="700" fill="#e6edf3" opacity="1" pointer-events="none">138</text>
-<rect x="1820" y="220" width="28" height="28" rx="3" fill="#39d353"><title>2026-11-26: 47</title></rect>
-<text x="1834.0" y="238.6" text-anchor="middle" font-family="monospace" font-size="13" font-weight="700" fill="#e6edf3" opacity="1" pointer-events="none">47</text>
+<rect x="1820" y="220" width="28" height="28" rx="3" fill="#39d353"><title>2026-11-26: 79</title></rect>
+<text x="1834.0" y="238.6" text-anchor="middle" font-family="monospace" font-size="13" font-weight="700" fill="#e6edf3" opacity="1" pointer-events="none">79</text>
+<rect x="1820" y="254" width="28" height="28" rx="3" fill="#39d353"><title>2026-11-27: 51</title></rect>
+<text x="1834.0" y="272.6" text-anchor="middle" font-family="monospace" font-size="13" font-weight="700" fill="#e6edf3" opacity="1" pointer-events="none">51</text>
 <text x="52" y="348" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" fill="#8b949e">Less</text>
 <rect x="88" y="334" width="26" height="26" rx="3" fill="#161b22"/>
 <rect x="119" y="334" width="26" height="26" rx="3" fill="#0e4429"/>
